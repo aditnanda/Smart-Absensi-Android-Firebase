@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Absensi</string>
+    <string name="openDrawer">Drawer dibuka</string>
+    <string name="closeDrawer">Drawer ditutup</string>
+    <string name="navigation_view_item_1">Beranda</string>
+    <string name="navigation_view_item_2">Admin</string>
+    <string name="author">Aditya Nanda Utama</string>
+    <string name="search_hint">Cari</string>
+
+</resources>

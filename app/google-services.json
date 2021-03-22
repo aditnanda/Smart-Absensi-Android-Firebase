@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "62071703994",
+    "firebase_url": "https://smartabsensi-8e474.firebaseio.com",
+    "project_id": "smartabsensi-8e474",
+    "storage_bucket": "smartabsensi-8e474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62071703994:android:06917688b66bf6c7",
+        "android_client_info": {
+          "package_name": "com.nand_project.www.smartabsensi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62071703994-piu4e7tpsgohppdbosurbj2grhipq7i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nand_project.www.smartabsensi",
+            "certificate_hash": "526124618f99ec682514f346e05ac6a4983dc4cb"
+          }
+        },
+        {
+          "client_id": "62071703994-7eear7kcums351r9gnkl6e7l1piivj4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMoaUkh67NyjOX3_l4nFcYhL1twaHbo_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62071703994-7eear7kcums351r9gnkl6e7l1piivj4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
